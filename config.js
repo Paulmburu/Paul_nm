@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Paul Mburu',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,21 +25,21 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Paul Mburu',
+    photo: '/paul.jpeg',
+    bio: 'Android Developer.',
     contacts: {
-      email: '',
+      email: 'paulmburu53@gmail.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'Paulnm',
+      github: 'Paulmburu',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'paul-mburu-09029b127',
       instagram: '#',
       line: '',
-      gitlab: '',
+      gitlab: 'Paulmburu',
       weibo: '',
       codepen: '',
       youtube: ''
