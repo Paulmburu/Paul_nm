@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Paul Mburu',
   subtitle: 'Android Developer and Sports Programmer',
-  copyright: '© All rights reserved.',
+  copyright: '© Paulnm.',
   disqusShortname: 'paulnm-tk',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -19,7 +19,7 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
+    { 
       label: 'Contact me',
       path: '/pages/contacts'
     }
