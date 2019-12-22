@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Paul Mburu',
+  title: 'Paulnm',
   subtitle: 'Android Developer and Sports Programmer',
   copyright: '© Paulnm.',
   disqusShortname: 'paulnm-tk',
@@ -37,7 +37,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'paul-mburu-09029b127',
-      instagram: '#',
+      instagram: 'paul__nm',
       line: '',
       gitlab: 'Paulmburu',
       weibo: '',
