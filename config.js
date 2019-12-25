@@ -1,11 +1,14 @@
 'use strict';
 
+const d = new Date();
+const year = d.getFullYear();
+
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Paulnm',
   subtitle: 'Android Developer and Sports Programmer',
-  copyright: '© Paulnm.',
+  copyright: `© Paulnm | ${year}`,
   disqusShortname: 'paulnm-tk',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',

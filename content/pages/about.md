@@ -1,13 +1,62 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/Headshots.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I am Paul Mburu, currently an undergraduate at Taita Taveta University pursuing Mathematics and Computer Science.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I am an android developer and a sports programmer(Its all about solving mathematical problems but in this case using a programming language).
+
+---
+
+<figure class="float-left" style="width: 240px">
+	<img src="/media/Headshots.jpg" alt="DSC Summit Accra, Ghana.">
+	<figcaption>DSC Summit Accra, Ghana.</figcaption>
+</figure>
+
+***Current DSC Lead Taita Taveta University***   
+*Developer Student Clubs are university based community groups for students interested in Google developer technologies. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.*
+
+
+---
+Bookmark Tabs
+<!-- <image src="/media/mictec.JPG" width="300"> -->
+<figure class="float-right" style="width: 240px">
+	<img src="/media/mictec.JPG" alt="Gutenberg">
+	<figcaption>MICTEC Club</figcaption>
+</figure>
+
+***Current MICTEC Chair (Mathematics and ICT for development)***
+*A Tech community at Taita Taveta University meant to grow and bring out the best out of all tech enthusiasts at the Institution.*
+
+---
+
+***Skills***
+> ___Android Development:___ *Java, Kotlin*
+
+> ___Sports Programming:___ *Java, C/C++*
+
+> ___Data Structures and Algorithms___
+
+> ___Javascript, Nodejs___
+
+> ___Linux___
+
+> ___Git___
+
+---
+
+***Other Interests***
+
+> -Reading articles and Blogs 🗒️
+
+> -Gaming 🎮
+
+> -Growing Tech Communities 💡
+
+
+
+![AFrica Code Week at Dr Aggrey High School Wundanyi, Kenya.](/media/sote.JPG)
