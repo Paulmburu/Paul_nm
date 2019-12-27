@@ -60,3 +60,9 @@ Bookmark Tabs
 
 
 ![AFrica Code Week at Dr Aggrey High School Wundanyi, Kenya.](/media/sote.JPG)
+
+
+##Contact me
+> __Email:__ paulmburu53@gmail.com
+
+> __Phone Number:__ +254704002748
