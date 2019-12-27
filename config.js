@@ -21,11 +21,12 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    { 
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
+    // ,
+    // { 
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Paul Mburu',
@@ -33,18 +34,18 @@ module.exports = {
     bio: 'Android Developer.',
     contacts: {
       email: 'paulmburu53@gmail.com',
-      facebook: '#',
-      telegram: '#',
+      // facebook: '#',
+      // telegram: '#',
       twitter: 'Paulnm',
       github: 'Paulmburu',
-      rss: '',
-      vkontakte: '',
+      // rss: '',
+      // vkontakte: '',
       linkedin: 'paul-mburu-09029b127',
       instagram: 'paul__nm',
-      line: '',
+      // line: '',
       gitlab: 'Paulmburu',
-      weibo: '',
-      codepen: '',
+      // weibo: '',
+      // codepen: '',
       youtube: ''
     }
   }

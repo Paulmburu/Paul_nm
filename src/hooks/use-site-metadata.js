@@ -12,19 +12,12 @@ const useSiteMetadata = () => {
               bio
               photo
               contacts {
-                facebook
-                linkedin
-                github
-                twitter
-                telegram
-                instagram
                 email
-                rss
-                vkontakte
-                line
+                github
                 gitlab
-                weibo
-                codepen
+                twitter
+                linkedin
+                instagram 
                 youtube
               }
             }
