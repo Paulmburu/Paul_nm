@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Paul Mburu',
     photo: '/paul.jpeg',
-    bio: 'Android Developer.',
+    bio: 'Android Developer | Sport Programmer',
     contacts: {
       email: 'paulmburu53@gmail.com',
       // facebook: '#',
