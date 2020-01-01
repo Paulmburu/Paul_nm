@@ -54,7 +54,7 @@ It's coming up with logic to solve this *"maths"* problem statements, where the 
 - [CS Academy](https://csacademy.com/)
 - [More...](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
 
-<figure class="float-left" style="width: 1000px">
+<figure class="float-left" style="width: 500px">
 	<img src="/media/gennady.jpg" alt="Gennady Korotkevich, Belarusian programmer.">
 	<figcaption>Gennady Korotkevich, Belarusian programmer.</figcaption>
 </figure>
@@ -63,3 +63,7 @@ It's coming up with logic to solve this *"maths"* problem statements, where the 
 
 
 You should definitely try out competitive programming this year for accelerated learning, especially if you are still in school. I will be writing more about it, check out for the next articles.
+
+---
+
+*You can check out this article too:* [Programming as a sport](https://medium.com/@elizarov/programming-as-a-sport-526027498b8d)
