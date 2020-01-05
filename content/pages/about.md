@@ -66,3 +66,5 @@ Bookmark Tabs
 > __Email:__ paulmburu53@gmail.com
 
 > __Phone Number:__ +254704002748
+
+> [**My Resume**](/Paul_Mburu_Resume.pdf)
