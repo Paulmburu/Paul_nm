@@ -13,7 +13,7 @@ description: "Competitive programming is a mind sport usually held over the Inte
 socialImage: "/media/image-2.jpg"
 ---
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+![Sports Programming](/media/image-2.jpg)
 
 Also Known as competitive programming.
 
